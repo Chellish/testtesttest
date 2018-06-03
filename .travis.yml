@@ -1,1 +1,1 @@
-script: ./test.py
+script python: ./test.py
