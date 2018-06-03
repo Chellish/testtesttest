@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
 
 def plus(a,b):
     return a+b
@@ -15,5 +14,5 @@ if __name__ == '__main__':
 
     if plus("abc","def") != "abcdef":
         sys.exit(3)
-    ##終了ステータス
+
     sys.exit(0)
